@@ -1,0 +1,10 @@
+<html>
+<body>
+<h1>Aqui cabeçalho do arquivo</h1>
+<a href="http://www.w3schools.com">Isto é um link</a>
+<br>
+<p>Meu segundo parágrafo.</P>
+<p><strong>Meu</strong>parágrafo da página web.</p>
+<param>
+</body>
+</html>
